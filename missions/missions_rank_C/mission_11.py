@@ -1,4 +1,4 @@
-# 🔢 Selo da Paridade
+# 🔢 Selo da Paridade - RANK C
 
 print("Você foi designado para ajudar o tesoureiro a classificar moedas mágicas,\npara isso é necessário identificar os números pares e impares!")
 print("-------------------------------------")

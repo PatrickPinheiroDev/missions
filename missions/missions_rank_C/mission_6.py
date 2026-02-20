@@ -1,4 +1,4 @@
-# 🏛 O Registro Oficial da Estalagem
+# 🏛 O Registro Oficial da Estalagem - RANK C
 
 from random import randint
 
