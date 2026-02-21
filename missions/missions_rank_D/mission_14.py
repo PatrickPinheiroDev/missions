@@ -10,5 +10,8 @@ input("\nClique em uma tecla qualquer para conjurar o feitiço da organização 
 print("----------------------------------------------------")
 
 lista_de_pergaminhos_para_feiticos.sort()
-print("Você conseguiu mais uma vez, olhe que beleza: ")
+print("O feitiço foi lançado e agora está tudo em ordem alfabética!\nVeja abaixo: ")
 print(*lista_de_pergaminhos_para_feiticos, sep='\n')
+print("\nO bibliotecário agradece imensamente seus serviços.\n")
+
+# nota 10
