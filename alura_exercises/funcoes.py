@@ -6,3 +6,4 @@ def valor_da_gorjeta(a,b):
 def valor_total(a,b):
     return a * (1 + b / 100)
 
+
